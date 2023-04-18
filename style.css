@@ -1,0 +1,127 @@
+ .card{
+    margin: auto;
+    width: 300px;
+    height: 400px;
+    box-shadow: 2px 10pz black;
+    
+    font-family: 'Roboto', sans-serif;
+    border-radius: 15px;
+    box-shadow: 2px 2px 2px 2px rgba(111, 104, 104, 0.297);
+ }
+ 
+ img{
+    width: 150x;
+    height: 120px;
+    border-radius: 500px;
+    border: 2px solid white;
+    margin-left: 95px;
+    margin-top: 40px;
+}
+.profile-photo{
+    background-color: rgb(0, 145, 255);
+    height: 140px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.detail .name{
+    margin-bottom: 0;
+    margin-top: 35px;
+    margin-left: 105px;
+    font-size: 19px;
+    font-weight: 400;
+}
+.detail .work{
+    margin-left: 95px;
+    font-size: 14px;
+    margin-top: 5px;
+    margin-bottom: 0;
+    font-weight: 300;
+}
+
+.icon{
+    display: flex;
+    margin-top: 16px;
+    margin-left: 70px;
+    }
+.facebook{
+    margin-right: 12px;
+    background-color: rgb(0, 108, 191);
+    padding: 7px;
+    padding-right: 9px;
+    padding-left: 9px;
+    border-radius:50% ;
+    color: white;
+    border: none;
+}
+
+.twitter{
+    margin-right: 12px;
+    background-color: rgb(12, 141, 240);
+    padding-right: 7px;
+    padding-left: 7px;
+    padding-top: 7px;
+    border-radius:50% ;
+    color: white;
+    border: none;
+}
+.instagram{
+    margin-right: 12px;
+    background-color: rgb(240, 12, 111);
+    padding-right: 9px;
+    padding-left: 9px;
+    padding-top: 7px;
+    border-radius:50% ;
+    color: white;
+    border: none;
+}
+.youtube{
+    margin-right: 12px;
+    background-color: rgb(240, 12, 27);
+    padding-right: 7px;
+    padding-left: 7px;
+    padding-top: 7px;
+    border-radius:50% ;
+    color: white;
+    border: none;
+}
+
+button{
+    background-color: rgb(0, 145, 255);
+    border: none;
+    border-radius: 15px;
+    color: white;
+    padding-left: 17px;
+    padding-right: 17px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    font-size: 15px;
+}
+
+.button{
+    margin-left: 40px;
+    margin-top: 19px;
+}
+.message{
+    margin-left: 15px;
+}
+.popular{
+    display: flex;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.likes{
+    margin-right: 5px;
+}
+.comment{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.share{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+span{
+    margin-left: 15px;
+}
